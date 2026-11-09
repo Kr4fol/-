@@ -10,4 +10,3 @@ if ($temperature < 0) {
 } else {
     echo 'Прохладно';
 }
-?>
